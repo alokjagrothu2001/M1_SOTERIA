@@ -32,7 +32,7 @@ Following features are added in myne SETUP BOX Billing System
 
 **Where:** This project can be used for SETUP BOX Billing.
 
-**How:** The inconvinience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
+**How:** The inconvenience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
 
 
 
